@@ -1,0 +1,17 @@
+metric,value,note
+editions_in_catalogue,6448,"limited vinyl editions with cover and at least one shop offer"
+median_best_price_eur,30.39,"median of the cheapest new price per edition"
+mean_gap_between_shops_eur,3.88,"mean difference between most expensive and cheapest shop, editions with several shops"
+mean_gap_between_shops_pct,9.26,"same, in percent"
+editions_with_known_run_size,529,
+median_run_size,500,copies
+most_common_run_size,500,copies
+smallest_run_size,18,copies
+share_limited_to_500_or_fewer_pct,67.5,"of editions with known run size"
+editions_with_known_colour,1480,
+double_lp_or_more,1305,"editions with at least two discs"
+double_lp_or_more_share_pct,20.2,
+reissue_share_pct,37.4,"original album at least two years older than the pressing; base: editions with both dates"
+reissue_base_editions,2058,
+reissue_median_age_years,20,
+labels_distinct,1077,

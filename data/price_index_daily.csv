@@ -1,0 +1,650 @@
+date,segment,segment_label,segment_label_de,index_value,median_best_price_eur,mean_best_price_eur,editions,editions_with_several_shops,mean_gap_eur,mean_gap_pct
+2026-10-15,all,"All editions","Alle Editionen",100.00,29.99,33.53,6046,4261,3.87,9.34
+2026-10-15,color:farbig,"Coloured pressings","Farbige Pressungen",100.00,30.99,33.97,1307,793,3.91,9.60
+2026-10-15,discs:1,"Single LP",Einzel-LP,100.00,29.99,29.97,3975,3230,3.08,8.81
+2026-10-15,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.00,37.99,43.21,1208,988,5.96,10.85
+2026-10-15,genre:classical,Classical,Klassik,100.00,30.99,37.32,37,18,2.59,6.86
+2026-10-15,genre:electronic,Electronic,Electronic,100.00,29.99,32.63,510,374,3.45,8.32
+2026-10-15,genre:folk,"Folk, World & Country","Folk, World & Country",100.00,29.99,31.30,107,68,2.69,7.60
+2026-10-15,genre:funk-soul,"Funk & Soul","Funk & Soul",100.00,29.49,30.01,110,76,3.20,9.13
+2026-10-15,genre:hip-hop,Hip-Hop,Hip-Hop,100.00,32.99,35.39,109,87,4.81,11.96
+2026-10-15,genre:indie,"Indie & Alternative","Indie & Alternative",100.00,27.99,30.48,572,457,2.75,7.90
+2026-10-15,genre:jazz,Jazz,Jazz,100.00,31.99,35.64,224,155,6.49,13.96
+2026-10-15,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.00,30.99,34.06,1806,1207,3.74,9.18
+2026-10-15,genre:pop,Pop,Pop,100.00,30.99,32.15,151,112,3.86,10.45
+2026-10-15,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.00,28.99,29.93,660,471,2.72,7.50
+2026-10-15,genre:reggae,Reggae,Reggae,100.00,30.99,31.98,51,28,5.11,14.09
+2026-10-15,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.00,30.99,35.11,1492,1067,4.55,10.19
+2026-10-15,genre:soundtrack,Soundtracks,Soundtracks,100.00,39.99,45.50,59,31,6.69,14.00
+2026-10-15,genre:weitere,Other,"Weitere Editionen",100.00,29.99,39.95,107,83,5.81,9.57
+2026-10-16,all,"All editions","Alle Editionen",100.06,29.99,33.55,6057,4260,3.88,9.33
+2026-10-16,color:farbig,"Coloured pressings","Farbige Pressungen",100.00,30.99,33.99,1309,791,4.07,9.77
+2026-10-16,discs:1,"Single LP",Einzel-LP,100.09,29.99,30.03,3980,3228,3.06,8.78
+2026-10-16,discs:2plus,"Double LP and more","Doppel-LP und mehr",99.99,37.99,43.17,1214,989,6.09,10.96
+2026-10-16,genre:classical,Classical,Klassik,100.00,30.99,37.32,37,18,2.59,6.86
+2026-10-16,genre:electronic,Electronic,Electronic,100.11,29.99,32.65,510,368,3.47,8.29
+2026-10-16,genre:folk,"Folk, World & Country","Folk, World & Country",100.50,29.99,31.43,107,67,2.52,7.10
+2026-10-16,genre:funk-soul,"Funk & Soul","Funk & Soul",100.00,29.99,30.31,111,76,3.20,9.13
+2026-10-16,genre:hip-hop,Hip-Hop,Hip-Hop,100.09,32.99,35.42,109,85,4.85,12.03
+2026-10-16,genre:indie,"Indie & Alternative","Indie & Alternative",100.15,27.99,30.52,571,454,2.73,7.80
+2026-10-16,genre:jazz,Jazz,Jazz,100.24,31.99,35.82,224,154,6.21,13.82
+2026-10-16,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.01,30.99,34.06,1811,1213,3.76,9.19
+2026-10-16,genre:pop,Pop,Pop,100.08,30.99,32.18,150,110,3.88,10.53
+2026-10-16,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.16,28.99,29.99,661,471,2.85,7.53
+2026-10-16,genre:reggae,Reggae,Reggae,100.00,30.99,31.98,51,28,5.11,14.09
+2026-10-16,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.94,30.99,35.11,1495,1070,4.58,10.26
+2026-10-16,genre:soundtrack,Soundtracks,Soundtracks,100.15,39.99,45.02,61,32,6.51,13.73
+2026-10-16,genre:weitere,Other,"Weitere Editionen",99.97,29.99,39.83,108,87,5.61,9.33
+2026-10-17,all,"All editions","Alle Editionen",99.78,29.99,33.50,6066,4277,3.96,9.55
+2026-10-17,color:farbig,"Coloured pressings","Farbige Pressungen",99.84,30.99,34.00,1311,791,4.10,9.89
+2026-10-17,discs:1,"Single LP",Einzel-LP,99.76,29.99,29.95,3988,3240,3.14,9.02
+2026-10-17,discs:2plus,"Double LP and more","Doppel-LP und mehr",99.73,37.99,43.09,1215,993,6.17,11.13
+2026-10-17,genre:classical,Classical,Klassik,99.32,30.99,37.19,37,18,2.83,7.69
+2026-10-17,genre:electronic,Electronic,Electronic,99.87,29.99,32.59,510,367,3.56,8.55
+2026-10-17,genre:folk,"Folk, World & Country","Folk, World & Country",100.23,29.99,31.34,107,67,2.59,7.29
+2026-10-17,genre:funk-soul,"Funk & Soul","Funk & Soul",99.73,29.99,30.33,113,75,3.32,9.45
+2026-10-17,genre:hip-hop,Hip-Hop,Hip-Hop,99.85,32.99,35.34,109,85,4.95,12.25
+2026-10-17,genre:indie,"Indie & Alternative","Indie & Alternative",99.81,27.99,30.44,571,456,2.81,8.08
+2026-10-17,genre:jazz,Jazz,Jazz,99.23,30.99,35.53,224,157,6.49,14.61
+2026-10-17,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.82,30.99,34.04,1815,1219,3.79,9.30
+2026-10-17,genre:pop,Pop,Pop,99.99,30.99,32.19,151,109,3.98,10.66
+2026-10-17,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.98,28.99,29.98,662,472,2.91,7.73
+2026-10-17,genre:reggae,Reggae,Reggae,100.04,30.99,32.28,50,28,5.02,13.89
+2026-10-17,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.61,30.99,35.00,1497,1079,4.67,10.49
+2026-10-17,genre:soundtrack,Soundtracks,Soundtracks,100.05,39.99,45.70,62,32,6.61,14.03
+2026-10-17,genre:weitere,Other,"Weitere Editionen",99.89,29.99,39.87,107,86,5.64,9.34
+2026-10-18,all,"All editions","Alle Editionen",99.81,29.99,33.52,6073,4254,3.97,9.57
+2026-10-18,color:farbig,"Coloured pressings","Farbige Pressungen",99.85,31.17,33.99,1308,790,4.05,9.79
+2026-10-18,discs:1,"Single LP",Einzel-LP,99.78,29.99,29.97,3986,3221,3.15,9.04
+2026-10-18,discs:2plus,"Double LP and more","Doppel-LP und mehr",99.77,37.79,42.97,1215,989,6.16,11.15
+2026-10-18,genre:classical,Classical,Klassik,99.40,30.99,37.21,37,18,2.78,7.53
+2026-10-18,genre:electronic,Electronic,Electronic,99.88,29.99,32.35,512,362,3.60,8.65
+2026-10-18,genre:folk,"Folk, World & Country","Folk, World & Country",100.32,29.99,31.42,108,65,2.67,7.52
+2026-10-18,genre:funk-soul,"Funk & Soul","Funk & Soul",100.24,29.99,30.47,113,72,3.30,9.41
+2026-10-18,genre:hip-hop,Hip-Hop,Hip-Hop,99.90,32.99,35.53,111,85,4.92,12.24
+2026-10-18,genre:indie,"Indie & Alternative","Indie & Alternative",99.82,27.99,30.44,571,451,2.84,8.13
+2026-10-18,genre:jazz,Jazz,Jazz,99.23,30.99,35.53,222,156,6.53,14.71
+2026-10-18,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.83,30.99,34.02,1812,1216,3.79,9.29
+2026-10-18,genre:pop,Pop,Pop,99.89,30.99,32.49,154,110,3.97,10.65
+2026-10-18,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.96,28.99,29.98,662,470,2.97,7.83
+2026-10-18,genre:reggae,Reggae,Reggae,100.04,30.99,32.28,50,27,5.20,14.41
+2026-10-18,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.66,30.99,35.11,1501,1076,4.63,10.45
+2026-10-18,genre:soundtrack,Soundtracks,Soundtracks,100.05,39.99,45.70,62,32,6.61,14.03
+2026-10-18,genre:weitere,Other,"Weitere Editionen",99.89,29.99,39.93,107,87,5.59,9.27
+2026-10-19,all,"All editions","Alle Editionen",99.86,29.99,33.55,6072,4236,3.93,9.53
+2026-10-19,color:farbig,"Coloured pressings","Farbige Pressungen",99.95,31.34,34.07,1305,786,3.95,9.70
+2026-10-19,discs:1,"Single LP",Einzel-LP,99.84,29.99,30.01,3988,3203,3.14,9.01
+2026-10-19,discs:2plus,"Double LP and more","Doppel-LP und mehr",99.81,37.99,43.04,1226,992,6.06,11.08
+2026-10-19,genre:classical,Classical,Klassik,99.40,30.99,37.21,37,18,2.78,7.53
+2026-10-19,genre:electronic,Electronic,Electronic,99.90,29.99,32.35,512,362,3.61,8.64
+2026-10-19,genre:folk,"Folk, World & Country","Folk, World & Country",100.27,29.99,31.38,108,66,2.62,7.32
+2026-10-19,genre:funk-soul,"Funk & Soul","Funk & Soul",100.21,29.99,30.46,113,72,3.30,9.41
+2026-10-19,genre:hip-hop,Hip-Hop,Hip-Hop,99.84,32.99,35.49,111,85,4.96,12.27
+2026-10-19,genre:indie,"Indie & Alternative","Indie & Alternative",99.89,27.99,30.46,570,447,2.83,8.11
+2026-10-19,genre:jazz,Jazz,Jazz,99.32,30.99,35.63,221,155,6.41,14.51
+2026-10-19,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.86,30.99,34.07,1812,1209,3.72,9.24
+2026-10-19,genre:pop,Pop,Pop,99.88,31.49,32.48,154,110,3.98,10.71
+2026-10-19,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.10,28.99,30.02,662,467,2.92,7.71
+2026-10-19,genre:reggae,Reggae,Reggae,100.04,30.99,32.28,50,27,5.20,14.41
+2026-10-19,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.72,30.99,35.14,1501,1073,4.62,10.42
+2026-10-19,genre:soundtrack,Soundtracks,Soundtracks,100.13,39.99,45.74,62,31,6.75,14.31
+2026-10-19,genre:weitere,Other,"Weitere Editionen",99.89,29.99,39.91,108,87,5.59,9.27
+2026-10-20,all,"All editions","Alle Editionen",99.83,29.99,33.54,6068,4231,3.95,9.57
+2026-10-20,color:farbig,"Coloured pressings","Farbige Pressungen",99.90,31.34,34.07,1301,783,3.98,9.77
+2026-10-20,discs:1,"Single LP",Einzel-LP,99.80,29.99,30.01,3986,3205,3.15,9.05
+2026-10-20,discs:2plus,"Double LP and more","Doppel-LP und mehr",99.78,37.99,43.02,1225,986,6.10,11.14
+2026-10-20,genre:classical,Classical,Klassik,99.40,30.99,37.21,37,18,2.78,7.53
+2026-10-20,genre:electronic,Electronic,Electronic,99.96,29.99,32.39,511,362,3.61,8.65
+2026-10-20,genre:folk,"Folk, World & Country","Folk, World & Country",100.27,29.99,31.38,108,66,2.62,7.32
+2026-10-20,genre:funk-soul,"Funk & Soul","Funk & Soul",99.45,28.99,30.23,113,72,3.58,10.14
+2026-10-20,genre:hip-hop,Hip-Hop,Hip-Hop,99.42,32.99,35.53,112,85,5.06,12.60
+2026-10-20,genre:indie,"Indie & Alternative","Indie & Alternative",99.88,27.99,30.37,570,447,2.84,8.12
+2026-10-20,genre:jazz,Jazz,Jazz,99.55,30.99,35.71,221,154,6.26,14.24
+2026-10-20,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.88,30.99,34.09,1814,1204,3.72,9.23
+2026-10-20,genre:pop,Pop,Pop,99.21,30.99,32.32,154,110,4.13,11.16
+2026-10-20,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.10,28.99,30.02,663,469,2.91,7.69
+2026-10-20,genre:reggae,Reggae,Reggae,100.04,30.99,32.37,49,27,5.20,14.41
+2026-10-20,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.67,30.99,35.12,1495,1073,4.66,10.51
+2026-10-20,genre:soundtrack,Soundtracks,Soundtracks,100.13,39.99,45.74,62,31,6.75,14.31
+2026-10-20,genre:weitere,Other,"Weitere Editionen",99.93,29.99,39.92,108,86,5.64,9.33
+2026-10-21,all,"All editions","Alle Editionen",99.87,29.99,33.52,6070,4230,3.92,9.52
+2026-10-21,color:farbig,"Coloured pressings","Farbige Pressungen",99.76,31.74,34.05,1304,789,3.81,9.73
+2026-10-21,discs:1,"Single LP",Einzel-LP,99.86,29.99,30.02,3987,3206,3.12,9.00
+2026-10-21,discs:2plus,"Double LP and more","Doppel-LP und mehr",99.77,37.99,42.83,1224,984,6.09,11.08
+2026-10-21,genre:classical,Classical,Klassik,99.32,30.99,37.19,37,17,2.76,7.24
+2026-10-21,genre:electronic,Electronic,Electronic,99.87,29.99,32.38,512,364,3.60,8.67
+2026-10-21,genre:folk,"Folk, World & Country","Folk, World & Country",100.81,29.99,31.65,108,65,2.47,6.95
+2026-10-21,genre:funk-soul,"Funk & Soul","Funk & Soul",99.33,28.99,30.27,114,72,3.64,10.27
+2026-10-21,genre:hip-hop,Hip-Hop,Hip-Hop,99.93,32.99,35.61,113,83,5.05,12.41
+2026-10-21,genre:indie,"Indie & Alternative","Indie & Alternative",99.74,27.99,30.35,572,453,2.86,8.15
+2026-10-21,genre:jazz,Jazz,Jazz,101.28,31.99,36.09,221,149,5.97,12.95
+2026-10-21,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.79,30.99,33.90,1815,1210,3.81,9.33
+2026-10-21,genre:pop,Pop,Pop,98.84,30.99,32.22,154,112,4.20,11.34
+2026-10-21,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.15,28.99,30.03,661,470,2.72,7.52
+2026-10-21,genre:reggae,Reggae,Reggae,99.65,30.99,32.29,49,27,5.35,14.83
+2026-10-21,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.67,30.99,35.15,1499,1072,4.61,10.52
+2026-10-21,genre:soundtrack,Soundtracks,Soundtracks,101.82,40.99,46.25,62,30,6.01,12.35
+2026-10-21,genre:weitere,Other,"Weitere Editionen",100.02,29.99,40.53,102,79,5.85,9.52
+2026-10-22,all,"All editions","Alle Editionen",99.87,29.99,33.51,6083,4234,3.92,9.51
+2026-10-22,color:farbig,"Coloured pressings","Farbige Pressungen",99.79,31.99,34.05,1303,784,3.82,9.75
+2026-10-22,discs:1,"Single LP",Einzel-LP,99.88,29.99,30.03,3991,3209,3.11,8.97
+2026-10-22,discs:2plus,"Double LP and more","Doppel-LP und mehr",99.75,37.99,42.80,1230,984,6.11,11.11
+2026-10-22,genre:classical,Classical,Klassik,99.68,30.99,37.29,37,17,2.53,6.48
+2026-10-22,genre:electronic,Electronic,Electronic,99.88,29.99,32.40,514,364,3.60,8.69
+2026-10-22,genre:folk,"Folk, World & Country","Folk, World & Country",100.35,29.99,31.51,108,65,2.63,7.43
+2026-10-22,genre:funk-soul,"Funk & Soul","Funk & Soul",99.37,28.99,30.29,114,74,3.52,10.01
+2026-10-22,genre:hip-hop,Hip-Hop,Hip-Hop,100.70,32.99,35.88,113,80,4.96,12.24
+2026-10-22,genre:indie,"Indie & Alternative","Indie & Alternative",99.75,27.99,30.36,572,452,2.86,8.15
+2026-10-22,genre:jazz,Jazz,Jazz,101.11,31.99,35.96,222,150,5.97,12.87
+2026-10-22,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.79,31.99,33.90,1818,1212,3.81,9.33
+2026-10-22,genre:pop,Pop,Pop,99.30,31.99,32.39,156,110,4.09,10.99
+2026-10-22,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.05,28.99,30.00,662,470,2.73,7.57
+2026-10-22,genre:reggae,Reggae,Reggae,99.65,30.99,32.29,49,27,5.35,14.83
+2026-10-22,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.59,30.99,35.12,1502,1073,4.63,10.56
+2026-10-22,genre:soundtrack,Soundtracks,Soundtracks,101.68,40.99,46.17,62,31,5.95,12.14
+2026-10-22,genre:weitere,Other,"Weitere Editionen",100.97,29.99,40.49,104,82,5.51,8.78
+2026-10-23,all,"All editions","Alle Editionen",99.80,29.99,33.45,6091,4267,3.98,9.57
+2026-10-23,color:farbig,"Coloured pressings","Farbige Pressungen",99.86,31.99,34.03,1299,784,3.87,9.70
+2026-10-23,discs:1,"Single LP",Einzel-LP,99.78,29.99,30.00,3999,3233,3.16,9.07
+2026-10-23,discs:2plus,"Double LP and more","Doppel-LP und mehr",99.76,37.99,42.72,1233,991,6.12,11.07
+2026-10-23,genre:classical,Classical,Klassik,99.60,30.99,37.27,37,17,2.59,6.65
+2026-10-23,genre:electronic,Electronic,Electronic,100.16,29.99,32.50,516,362,3.51,8.46
+2026-10-23,genre:folk,"Folk, World & Country","Folk, World & Country",99.41,29.99,31.30,107,68,2.89,8.37
+2026-10-23,genre:funk-soul,"Funk & Soul","Funk & Soul",98.84,28.99,30.14,114,76,3.66,10.38
+2026-10-23,genre:hip-hop,Hip-Hop,Hip-Hop,99.83,32.99,35.38,113,83,5.44,12.79
+2026-10-23,genre:indie,"Indie & Alternative","Indie & Alternative",100.03,27.99,30.41,574,451,2.76,7.89
+2026-10-23,genre:jazz,Jazz,Jazz,99.78,30.99,35.53,222,157,6.35,14.00
+2026-10-23,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.83,31.99,33.89,1820,1211,3.83,9.34
+2026-10-23,genre:pop,Pop,Pop,98.50,31.49,32.15,156,115,4.24,11.47
+2026-10-23,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.80,28.99,29.92,662,471,2.83,7.82
+2026-10-23,genre:reggae,Reggae,Reggae,101.57,32.99,32.76,49,26,4.83,13.22
+2026-10-23,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.58,30.99,35.01,1503,1088,4.74,10.53
+2026-10-23,genre:soundtrack,Soundtracks,Soundtracks,101.17,39.99,46.22,61,32,6.04,12.63
+2026-10-23,genre:weitere,Other,"Weitere Editionen",100.97,29.99,40.44,105,83,5.40,8.65
+2026-10-24,all,"All editions","Alle Editionen",99.75,29.99,33.43,6102,4286,3.97,9.62
+2026-10-24,color:farbig,"Coloured pressings","Farbige Pressungen",99.87,31.99,34.02,1306,779,3.87,9.72
+2026-10-24,discs:1,"Single LP",Einzel-LP,99.74,29.99,29.99,4009,3249,3.18,9.13
+2026-10-24,discs:2plus,"Double LP and more","Doppel-LP und mehr",99.68,37.99,42.67,1238,995,6.02,11.05
+2026-10-24,genre:classical,Classical,Klassik,99.60,30.99,37.27,37,16,2.75,7.06
+2026-10-24,genre:electronic,Electronic,Electronic,99.82,29.99,32.37,516,374,3.63,8.60
+2026-10-24,genre:folk,"Folk, World & Country","Folk, World & Country",99.49,29.99,31.31,107,68,2.89,8.36
+2026-10-24,genre:funk-soul,"Funk & Soul","Funk & Soul",98.63,28.99,30.06,114,79,3.58,10.19
+2026-10-24,genre:hip-hop,Hip-Hop,Hip-Hop,99.56,32.99,35.27,113,85,5.44,12.82
+2026-10-24,genre:indie,"Indie & Alternative","Indie & Alternative",100.14,27.99,30.52,576,450,2.76,7.89
+2026-10-24,genre:jazz,Jazz,Jazz,99.72,31.49,35.55,224,158,6.34,13.98
+2026-10-24,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.80,31.99,33.89,1825,1215,3.86,9.42
+2026-10-24,genre:pop,Pop,Pop,98.40,31.49,32.11,156,117,4.26,11.49
+2026-10-24,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.81,28.99,29.91,666,469,2.84,7.86
+2026-10-24,genre:reggae,Reggae,Reggae,101.57,32.99,32.76,49,26,4.83,13.22
+2026-10-24,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.51,30.99,35.00,1502,1090,4.72,10.56
+2026-10-24,genre:soundtrack,Soundtracks,Soundtracks,101.17,39.99,45.47,61,31,6.01,12.52
+2026-10-24,genre:weitere,Other,"Weitere Editionen",101.00,29.99,40.58,104,80,4.35,8.48
+2026-10-25,all,"All editions","Alle Editionen",99.84,29.99,33.50,6100,4275,3.89,9.54
+2026-10-25,color:farbig,"Coloured pressings","Farbige Pressungen",99.91,31.99,34.02,1308,776,3.87,9.70
+2026-10-25,discs:1,"Single LP",Einzel-LP,99.79,29.99,30.01,4016,3247,3.17,9.08
+2026-10-25,discs:2plus,"Double LP and more","Doppel-LP und mehr",99.91,37.99,42.91,1237,987,5.75,10.91
+2026-10-25,genre:classical,Classical,Klassik,99.60,30.99,37.27,37,16,2.75,7.06
+2026-10-25,genre:electronic,Electronic,Electronic,100.01,29.99,32.48,516,369,3.46,8.49
+2026-10-25,genre:folk,"Folk, World & Country","Folk, World & Country",99.49,29.99,31.12,105,66,2.95,8.54
+2026-10-25,genre:funk-soul,"Funk & Soul","Funk & Soul",98.66,28.99,30.07,114,78,3.62,10.28
+2026-10-25,genre:hip-hop,Hip-Hop,Hip-Hop,99.56,32.99,35.28,116,88,5.53,13.00
+2026-10-25,genre:indie,"Indie & Alternative","Indie & Alternative",100.22,27.99,30.55,576,449,2.72,7.79
+2026-10-25,genre:jazz,Jazz,Jazz,99.73,31.49,35.55,224,157,6.29,13.90
+2026-10-25,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.82,31.99,33.91,1822,1212,3.85,9.37
+2026-10-25,genre:pop,Pop,Pop,98.40,31.49,32.11,156,117,4.26,11.49
+2026-10-25,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.89,28.99,29.90,664,467,2.79,7.74
+2026-10-25,genre:reggae,Reggae,Reggae,101.57,32.99,32.76,49,26,4.83,13.22
+2026-10-25,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.71,30.99,35.17,1504,1086,4.48,10.45
+2026-10-25,genre:soundtrack,Soundtracks,Soundtracks,101.17,40.99,45.24,65,36,5.45,11.55
+2026-10-25,genre:weitere,Other,"Weitere Editionen",100.97,30.99,40.99,101,80,4.29,8.28
+2026-10-26,all,"All editions","Alle Editionen",99.91,29.99,33.53,6091,4248,3.87,9.51
+2026-10-26,color:farbig,"Coloured pressings","Farbige Pressungen",99.95,31.99,34.05,1303,774,3.87,9.68
+2026-10-26,discs:1,"Single LP",Einzel-LP,99.85,29.99,30.03,4010,3227,3.16,9.06
+2026-10-26,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.05,37.99,42.96,1236,981,5.71,10.84
+2026-10-26,genre:classical,Classical,Klassik,99.66,30.99,37.29,37,16,2.75,7.06
+2026-10-26,genre:electronic,Electronic,Electronic,100.19,29.99,32.54,516,366,3.40,8.35
+2026-10-26,genre:folk,"Folk, World & Country","Folk, World & Country",99.66,29.99,31.18,105,65,2.90,8.42
+2026-10-26,genre:funk-soul,"Funk & Soul","Funk & Soul",98.82,28.99,30.12,114,76,3.63,10.32
+2026-10-26,genre:hip-hop,Hip-Hop,Hip-Hop,99.56,32.99,35.28,116,88,5.53,13.00
+2026-10-26,genre:indie,"Indie & Alternative","Indie & Alternative",100.22,27.99,30.55,576,448,2.72,7.79
+2026-10-26,genre:jazz,Jazz,Jazz,100.00,31.99,35.67,224,155,6.20,13.76
+2026-10-26,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.85,31.99,33.93,1816,1207,3.85,9.35
+2026-10-26,genre:pop,Pop,Pop,98.40,31.49,32.11,156,117,4.26,11.49
+2026-10-26,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.89,28.99,29.90,664,466,2.80,7.74
+2026-10-26,genre:reggae,Reggae,Reggae,101.57,32.99,32.76,49,26,4.83,13.22
+2026-10-26,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.75,30.99,35.19,1502,1078,4.49,10.48
+2026-10-26,genre:soundtrack,Soundtracks,Soundtracks,102.62,41.49,45.82,64,35,4.26,9.99
+2026-10-26,genre:weitere,Other,"Weitere Editionen",101.24,31.99,41.22,101,77,4.14,8.23
+2026-10-27,all,"All editions","Alle Editionen",99.76,29.99,33.45,6089,4258,3.98,9.63
+2026-10-27,color:farbig,"Coloured pressings","Farbige Pressungen",99.98,31.99,34.07,1301,773,3.85,9.65
+2026-10-27,discs:1,"Single LP",Einzel-LP,99.76,29.99,30.01,4011,3226,3.18,9.12
+2026-10-27,discs:2plus,"Double LP and more","Doppel-LP und mehr",99.65,37.99,42.67,1236,992,6.03,11.10
+2026-10-27,genre:classical,Classical,Klassik,100.34,30.99,37.48,37,16,2.33,5.63
+2026-10-27,genre:electronic,Electronic,Electronic,99.82,29.99,32.33,516,370,3.65,8.66
+2026-10-27,genre:folk,"Folk, World & Country","Folk, World & Country",99.55,29.99,31.13,105,66,2.86,8.29
+2026-10-27,genre:funk-soul,"Funk & Soul","Funk & Soul",98.85,28.99,30.13,114,76,3.53,10.04
+2026-10-27,genre:hip-hop,Hip-Hop,Hip-Hop,99.29,32.99,35.17,116,91,5.43,12.70
+2026-10-27,genre:indie,"Indie & Alternative","Indie & Alternative",100.15,27.99,30.53,575,446,2.74,7.84
+2026-10-27,genre:jazz,Jazz,Jazz,99.72,31.99,35.58,224,157,6.22,13.81
+2026-10-27,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.84,31.99,33.94,1817,1202,3.86,9.40
+2026-10-27,genre:pop,Pop,Pop,98.38,30.99,32.09,157,117,4.27,11.51
+2026-10-27,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.83,28.99,29.87,661,464,2.82,7.84
+2026-10-27,genre:reggae,Reggae,Reggae,100.32,30.99,32.45,49,26,5.37,14.81
+2026-10-27,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.53,30.99,35.01,1503,1085,4.74,10.65
+2026-10-27,genre:soundtrack,Soundtracks,Soundtracks,100.42,40.49,44.82,64,37,5.57,12.29
+2026-10-27,genre:weitere,Other,"Weitere Editionen",101.24,31.99,41.22,101,77,4.18,8.34
+2026-10-28,all,"All editions","Alle Editionen",100.35,29.99,33.64,6097,4238,3.75,9.09
+2026-10-28,color:farbig,"Coloured pressings","Farbige Pressungen",100.42,31.99,34.18,1296,763,3.84,9.36
+2026-10-28,discs:1,"Single LP",Einzel-LP,100.35,29.99,30.17,4017,3209,3.02,8.64
+2026-10-28,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.61,37.99,43.14,1232,988,5.65,10.35
+2026-10-28,genre:classical,Classical,Klassik,100.34,30.99,37.48,37,16,2.33,5.63
+2026-10-28,genre:electronic,Electronic,Electronic,100.17,29.99,32.49,518,367,3.49,8.27
+2026-10-28,genre:folk,"Folk, World & Country","Folk, World & Country",100.35,29.99,31.32,105,65,2.59,7.50
+2026-10-28,genre:funk-soul,"Funk & Soul","Funk & Soul",99.05,28.99,30.18,114,76,3.44,9.80
+2026-10-28,genre:hip-hop,Hip-Hop,Hip-Hop,100.53,32.99,35.54,116,91,5.02,11.70
+2026-10-28,genre:indie,"Indie & Alternative","Indie & Alternative",100.53,27.99,30.59,573,448,2.61,7.42
+2026-10-28,genre:jazz,Jazz,Jazz,102.01,31.99,36.18,224,156,5.40,11.84
+2026-10-28,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.18,31.99,34.04,1819,1199,3.72,9.09
+2026-10-28,genre:pop,Pop,Pop,99.37,31.99,32.49,158,115,3.76,10.04
+2026-10-28,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.26,28.99,30.09,664,461,2.78,7.70
+2026-10-28,genre:reggae,Reggae,Reggae,101.46,30.99,32.72,49,26,4.75,13.01
+2026-10-28,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.33,30.99,35.28,1504,1076,4.46,9.95
+2026-10-28,genre:soundtrack,Soundtracks,Soundtracks,101.29,39.99,45.07,63,38,5.20,11.22
+2026-10-28,genre:weitere,Other,"Weitere Editionen",101.46,31.99,41.48,102,77,3.77,8.08
+2026-10-29,all,"All editions","Alle Editionen",100.51,29.99,33.69,6093,4247,3.67,8.89
+2026-10-29,color:farbig,"Coloured pressings","Farbige Pressungen",100.55,31.99,34.26,1296,761,3.56,9.07
+2026-10-29,discs:1,"Single LP",Einzel-LP,100.56,29.99,30.24,4024,3211,2.95,8.45
+2026-10-29,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.73,37.99,43.19,1233,995,5.46,10.10
+2026-10-29,genre:classical,Classical,Klassik,100.62,30.99,37.61,37,16,2.03,5.02
+2026-10-29,genre:electronic,Electronic,Electronic,100.42,29.99,32.53,517,368,3.43,8.09
+2026-10-29,genre:folk,"Folk, World & Country","Folk, World & Country",100.76,29.99,31.40,105,63,2.55,7.19
+2026-10-29,genre:funk-soul,"Funk & Soul","Funk & Soul",99.11,28.99,30.20,114,77,3.41,9.72
+2026-10-29,genre:hip-hop,Hip-Hop,Hip-Hop,101.40,32.99,35.82,116,88,4.79,11.11
+2026-10-29,genre:indie,"Indie & Alternative","Indie & Alternative",100.87,27.99,30.66,571,450,2.51,7.08
+2026-10-29,genre:jazz,Jazz,Jazz,102.58,31.99,36.35,224,155,5.19,11.31
+2026-10-29,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.32,31.99,34.14,1817,1193,3.64,8.97
+2026-10-29,genre:pop,Pop,Pop,99.39,31.99,32.49,158,114,3.78,10.10
+2026-10-29,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.27,28.99,30.03,664,470,2.63,7.43
+2026-10-29,genre:reggae,Reggae,Reggae,101.74,31.99,32.80,49,27,4.61,12.63
+2026-10-29,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.39,30.99,35.29,1505,1083,4.41,9.80
+2026-10-29,genre:soundtrack,Soundtracks,Soundtracks,101.29,39.99,45.07,63,38,5.20,11.22
+2026-10-29,genre:weitere,Other,"Weitere Editionen",101.46,31.99,41.48,102,78,3.73,8.01
+2026-10-30,all,"All editions","Alle Editionen",100.44,29.99,33.65,6096,4258,3.71,8.94
+2026-10-30,color:farbig,"Coloured pressings","Farbige Pressungen",100.56,31.99,34.23,1293,762,3.62,9.07
+2026-10-30,discs:1,"Single LP",Einzel-LP,100.54,29.99,30.23,4028,3218,2.95,8.46
+2026-10-30,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.51,37.99,43.09,1232,999,5.64,10.29
+2026-10-30,genre:classical,Classical,Klassik,100.54,30.99,37.58,37,16,2.09,5.20
+2026-10-30,genre:electronic,Electronic,Electronic,100.31,29.99,32.51,517,370,3.44,8.16
+2026-10-30,genre:folk,"Folk, World & Country","Folk, World & Country",100.51,29.99,31.38,105,64,2.64,7.62
+2026-10-30,genre:funk-soul,"Funk & Soul","Funk & Soul",99.64,28.99,30.33,114,76,3.28,9.33
+2026-10-30,genre:hip-hop,Hip-Hop,Hip-Hop,100.50,32.99,35.53,116,91,5.04,11.76
+2026-10-30,genre:indie,"Indie & Alternative","Indie & Alternative",100.83,27.99,30.67,571,447,2.53,7.17
+2026-10-30,genre:jazz,Jazz,Jazz,102.17,31.99,36.21,224,158,5.31,11.63
+2026-10-30,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.25,31.99,34.08,1814,1204,3.70,8.98
+2026-10-30,genre:pop,Pop,Pop,99.62,31.99,32.46,159,112,3.80,10.10
+2026-10-30,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.20,28.99,29.97,666,471,2.71,7.55
+2026-10-30,genre:reggae,Reggae,Reggae,101.46,30.99,32.63,50,27,4.61,12.68
+2026-10-30,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.36,30.99,35.28,1505,1081,4.39,9.78
+2026-10-30,genre:soundtrack,Soundtracks,Soundtracks,101.29,39.99,44.65,65,38,5.25,11.32
+2026-10-30,genre:weitere,Other,"Weitere Editionen",101.43,31.99,41.50,102,76,3.80,8.20
+2026-10-31,all,"All editions","Alle Editionen",100.86,30.99,33.83,6103,4242,3.49,8.56
+2026-10-31,color:farbig,"Coloured pressings","Farbige Pressungen",100.82,31.99,34.32,1295,760,3.51,8.90
+2026-10-31,discs:1,"Single LP",Einzel-LP,100.95,29.99,30.35,4036,3210,2.84,8.13
+2026-10-31,discs:2plus,"Double LP and more","Doppel-LP und mehr",101.19,37.99,43.48,1235,993,5.21,9.79
+2026-10-31,genre:blues,Blues,Blues,100.00,29.99,31.49,32,11,2.64,5.63
+2026-10-31,genre:classical,Classical,Klassik,100.54,30.99,37.58,37,17,2.20,5.80
+2026-10-31,genre:electronic,Electronic,Electronic,100.45,29.99,32.55,517,377,3.41,8.04
+2026-10-31,genre:folk,"Folk, World & Country","Folk, World & Country",100.52,29.99,31.38,106,64,2.60,7.53
+2026-10-31,genre:funk-soul,"Funk & Soul","Funk & Soul",100.81,28.99,30.60,114,77,2.83,8.01
+2026-10-31,genre:hip-hop,Hip-Hop,Hip-Hop,101.47,32.99,35.85,116,88,4.79,11.18
+2026-10-31,genre:indie,"Indie & Alternative","Indie & Alternative",101.24,28.99,30.80,570,444,2.40,6.81
+2026-10-31,genre:jazz,Jazz,Jazz,103.14,31.99,36.56,225,153,5.02,10.85
+2026-10-31,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.41,31.99,34.15,1816,1202,3.62,8.79
+2026-10-31,genre:pop,Pop,Pop,99.74,31.99,32.49,159,115,3.67,9.76
+2026-10-31,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.42,28.99,30.08,666,468,2.57,7.36
+2026-10-31,genre:reggae,Reggae,Reggae,102.18,32.49,32.85,50,26,4.37,12.02
+2026-10-31,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",101.17,30.99,35.69,1506,1072,3.93,9.13
+2026-10-31,genre:soundtrack,Soundtracks,Soundtracks,102.57,39.99,45.14,64,36,4.40,10.48
+2026-10-31,genre:weitere,Other,"Weitere Editionen",101.46,31.99,41.48,102,76,3.84,8.26
+2026-11-01,all,"All editions","Alle Editionen",100.78,30.99,33.79,6098,4238,3.56,8.64
+2026-11-01,color:farbig,"Coloured pressings","Farbige Pressungen",100.81,31.99,34.33,1294,758,3.52,8.91
+2026-11-01,discs:1,"Single LP",Einzel-LP,100.86,29.99,30.33,4032,3209,2.86,8.19
+2026-11-01,discs:2plus,"Double LP and more","Doppel-LP und mehr",101.09,37.99,43.38,1234,990,5.42,9.94
+2026-11-01,genre:blues,Blues,Blues,100.00,29.99,31.49,32,11,2.64,5.63
+2026-11-01,genre:classical,Classical,Klassik,100.54,30.99,37.58,37,17,2.20,5.80
+2026-11-01,genre:electronic,Electronic,Electronic,100.41,29.99,32.54,517,376,3.44,8.11
+2026-11-01,genre:folk,"Folk, World & Country","Folk, World & Country",100.52,29.99,31.28,105,64,2.60,7.53
+2026-11-01,genre:funk-soul,"Funk & Soul","Funk & Soul",100.85,28.99,30.62,114,76,2.85,8.07
+2026-11-01,genre:hip-hop,Hip-Hop,Hip-Hop,101.92,33.49,36.18,116,86,4.48,11.01
+2026-11-01,genre:indie,"Indie & Alternative","Indie & Alternative",101.21,28.64,30.78,570,444,2.42,6.84
+2026-11-01,genre:jazz,Jazz,Jazz,102.39,31.99,36.41,225,155,5.11,11.31
+2026-11-01,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.34,31.99,34.15,1815,1203,3.65,8.87
+2026-11-01,genre:pop,Pop,Pop,99.91,31.99,32.53,159,113,3.73,9.91
+2026-11-01,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.41,28.99,30.04,666,465,2.64,7.39
+2026-11-01,genre:reggae,Reggae,Reggae,101.46,30.99,32.63,50,27,4.61,12.68
+2026-11-01,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",101.05,30.99,35.59,1505,1073,4.05,9.16
+2026-11-01,genre:soundtrack,Soundtracks,Soundtracks,102.16,39.99,44.74,64,36,5.13,11.14
+2026-11-01,genre:weitere,Other,"Weitere Editionen",101.31,31.99,41.36,100,76,4.24,8.42
+2026-11-02,all,"All editions","Alle Editionen",100.45,29.99,33.68,6093,4213,3.73,8.99
+2026-11-02,color:farbig,"Coloured pressings","Farbige Pressungen",100.58,31.99,34.26,1290,755,3.64,9.23
+2026-11-02,discs:1,"Single LP",Einzel-LP,100.54,29.99,30.25,4032,3197,2.95,8.46
+2026-11-02,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.53,37.99,43.16,1231,977,5.80,10.56
+2026-11-02,genre:blues,Blues,Blues,100.00,29.99,31.49,32,11,2.64,5.63
+2026-11-02,genre:classical,Classical,Klassik,100.63,31.99,37.61,37,16,2.28,5.97
+2026-11-02,genre:electronic,Electronic,Electronic,100.06,29.99,32.44,517,374,3.57,8.42
+2026-11-02,genre:folk,"Folk, World & Country","Folk, World & Country",100.20,29.99,31.22,105,62,2.82,8.12
+2026-11-02,genre:funk-soul,"Funk & Soul","Funk & Soul",100.91,28.99,30.65,114,75,2.87,8.08
+2026-11-02,genre:hip-hop,Hip-Hop,Hip-Hop,100.72,33.99,35.65,116,85,5.25,12.23
+2026-11-02,genre:indie,"Indie & Alternative","Indie & Alternative",100.82,28.49,30.71,569,440,2.53,7.22
+2026-11-02,genre:jazz,Jazz,Jazz,101.19,31.99,36.01,225,156,5.58,12.44
+2026-11-02,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.20,31.99,34.09,1813,1197,3.76,9.06
+2026-11-02,genre:pop,Pop,Pop,99.02,31.99,32.31,159,113,4.03,10.76
+2026-11-02,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.29,28.99,30.01,666,461,2.70,7.53
+2026-11-02,genre:reggae,Reggae,Reggae,100.25,30.99,32.37,50,27,5.09,14.04
+2026-11-02,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.66,30.99,35.42,1505,1069,4.28,9.55
+2026-11-02,genre:soundtrack,Soundtracks,Soundtracks,101.36,39.99,44.73,62,35,5.57,11.97
+2026-11-02,genre:weitere,Other,"Weitere Editionen",101.31,31.99,41.36,100,76,4.24,8.42
+2026-11-03,all,"All editions","Alle Editionen",100.50,29.99,33.72,6098,4196,3.72,8.94
+2026-11-03,color:farbig,"Coloured pressings","Farbige Pressungen",100.60,31.99,34.26,1293,749,3.62,9.20
+2026-11-03,discs:1,"Single LP",Einzel-LP,100.58,29.99,30.26,4033,3186,2.95,8.44
+2026-11-03,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.68,37.99,43.19,1233,968,5.76,10.44
+2026-11-03,genre:blues,Blues,Blues,99.81,29.99,31.43,32,11,2.64,5.63
+2026-11-03,genre:classical,Classical,Klassik,100.49,31.99,37.55,37,17,2.26,5.92
+2026-11-03,genre:electronic,Electronic,Electronic,100.20,29.99,32.49,517,370,3.56,8.38
+2026-11-03,genre:folk,"Folk, World & Country","Folk, World & Country",100.20,29.99,31.22,105,62,2.82,8.12
+2026-11-03,genre:funk-soul,"Funk & Soul","Funk & Soul",100.91,28.99,30.53,115,75,2.87,8.08
+2026-11-03,genre:hip-hop,Hip-Hop,Hip-Hop,101.56,33.99,35.95,116,83,4.95,11.61
+2026-11-03,genre:indie,"Indie & Alternative","Indie & Alternative",101.02,28.99,30.76,569,438,2.47,7.02
+2026-11-03,genre:jazz,Jazz,Jazz,101.14,31.99,35.99,225,155,5.61,12.50
+2026-11-03,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.20,31.99,34.18,1817,1192,3.77,9.08
+2026-11-03,genre:pop,Pop,Pop,99.10,31.99,32.34,159,113,3.98,10.65
+2026-11-03,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.26,28.99,30.01,664,463,2.69,7.51
+2026-11-03,genre:reggae,Reggae,Reggae,100.25,30.99,32.37,50,27,5.09,14.04
+2026-11-03,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.74,30.99,35.44,1507,1063,4.26,9.49
+2026-11-03,genre:soundtrack,Soundtracks,Soundtracks,100.68,39.99,44.55,62,35,5.71,12.33
+2026-11-03,genre:weitere,Other,"Weitere Editionen",101.20,31.99,41.18,100,77,4.42,8.45
+2026-11-04,all,"All editions","Alle Editionen",100.49,29.99,33.71,6111,4184,3.75,8.98
+2026-11-04,color:farbig,"Coloured pressings","Farbige Pressungen",100.63,31.99,34.25,1298,748,3.63,9.21
+2026-11-04,discs:1,"Single LP",Einzel-LP,100.59,29.99,30.25,4035,3178,2.96,8.46
+2026-11-04,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.69,37.99,43.20,1237,962,5.78,10.48
+2026-11-04,genre:blues,Blues,Blues,99.81,29.99,31.64,31,11,2.64,5.63
+2026-11-04,genre:classical,Classical,Klassik,100.49,31.99,37.55,37,17,2.26,5.92
+2026-11-04,genre:electronic,Electronic,Electronic,100.16,29.99,32.48,517,364,3.62,8.51
+2026-11-04,genre:folk,"Folk, World & Country","Folk, World & Country",100.20,29.99,31.31,107,62,2.82,8.12
+2026-11-04,genre:funk-soul,"Funk & Soul","Funk & Soul",100.91,28.99,30.53,115,75,2.87,8.08
+2026-11-04,genre:hip-hop,Hip-Hop,Hip-Hop,101.39,33.99,35.89,116,83,5.04,11.81
+2026-11-04,genre:indie,"Indie & Alternative","Indie & Alternative",101.01,28.99,30.74,570,439,2.48,7.05
+2026-11-04,genre:jazz,Jazz,Jazz,101.34,31.99,36.04,225,155,5.63,12.54
+2026-11-04,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.14,31.99,34.15,1826,1193,3.84,9.14
+2026-11-04,genre:pop,Pop,Pop,99.20,31.99,32.36,159,113,3.99,10.63
+2026-11-04,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.31,28.99,29.99,664,458,2.69,7.53
+2026-11-04,genre:reggae,Reggae,Reggae,100.25,30.99,32.37,50,27,5.09,14.04
+2026-11-04,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.76,30.99,35.43,1509,1062,4.25,9.45
+2026-11-04,genre:soundtrack,Soundtracks,Soundtracks,100.81,40.49,44.99,64,34,5.76,12.46
+2026-11-04,genre:weitere,Other,"Weitere Editionen",100.97,31.99,41.35,98,76,4.51,8.67
+2026-11-05,all,"All editions","Alle Editionen",100.13,29.99,33.58,6121,4211,3.91,9.30
+2026-11-05,color:farbig,"Coloured pressings","Farbige Pressungen",100.13,31.99,34.07,1304,753,3.91,9.65
+2026-11-05,discs:1,"Single LP",Einzel-LP,100.24,29.99,30.17,4049,3192,3.05,8.71
+2026-11-05,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.09,37.99,42.89,1237,977,6.12,10.96
+2026-11-05,genre:blues,Blues,Blues,99.81,29.99,31.64,31,11,2.64,5.63
+2026-11-05,genre:classical,Classical,Klassik,100.50,30.99,37.55,37,16,2.40,6.27
+2026-11-05,genre:electronic,Electronic,Electronic,100.03,29.99,32.42,517,366,3.67,8.61
+2026-11-05,genre:folk,"Folk, World & Country","Folk, World & Country",100.11,29.99,31.28,107,65,2.75,7.95
+2026-11-05,genre:funk-soul,"Funk & Soul","Funk & Soul",99.85,28.99,30.27,115,75,3.19,9.01
+2026-11-05,genre:hip-hop,Hip-Hop,Hip-Hop,100.17,33.99,35.52,116,83,5.57,13.10
+2026-11-05,genre:indie,"Indie & Alternative","Indie & Alternative",100.77,28.99,30.68,570,443,2.56,7.23
+2026-11-05,genre:jazz,Jazz,Jazz,100.91,31.99,35.81,227,159,5.77,12.74
+2026-11-05,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.02,31.99,34.05,1831,1199,3.93,9.26
+2026-11-05,genre:pop,Pop,Pop,98.56,31.99,32.20,159,116,4.13,11.05
+2026-11-05,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.13,28.99,29.98,666,462,2.94,7.80
+2026-11-05,genre:reggae,Reggae,Reggae,100.25,30.99,32.37,50,27,5.09,14.04
+2026-11-05,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.08,30.99,35.19,1510,1063,4.51,10.04
+2026-11-05,genre:soundtrack,Soundtracks,Soundtracks,98.89,38.99,44.24,64,34,6.58,14.27
+2026-11-05,genre:weitere,Other,"Weitere Editionen",100.83,31.99,41.40,98,77,4.40,8.44
+2026-11-06,all,"All editions","Alle Editionen",100.03,29.99,33.57,6129,4191,3.99,9.41
+2026-11-06,color:farbig,"Coloured pressings","Farbige Pressungen",100.02,31.17,34.01,1296,752,3.97,9.74
+2026-11-06,discs:1,"Single LP",Einzel-LP,100.07,29.99,30.10,4044,3179,3.10,8.85
+2026-11-06,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.20,37.99,42.94,1235,968,6.22,10.98
+2026-11-06,genre:blues,Blues,Blues,100.00,29.99,31.71,31,11,2.64,5.63
+2026-11-06,genre:classical,Classical,Klassik,100.03,30.99,37.45,37,17,2.28,6.02
+2026-11-06,genre:electronic,Electronic,Electronic,99.94,29.99,32.36,516,361,3.81,8.95
+2026-11-06,genre:folk,"Folk, World & Country","Folk, World & Country",99.90,29.99,31.21,107,66,2.79,8.03
+2026-11-06,genre:funk-soul,"Funk & Soul","Funk & Soul",99.92,28.99,30.27,116,75,3.18,9.03
+2026-11-06,genre:hip-hop,Hip-Hop,Hip-Hop,100.36,33.99,35.66,117,85,5.11,12.14
+2026-11-06,genre:indie,"Indie & Alternative","Indie & Alternative",100.79,28.99,30.68,576,438,2.52,7.18
+2026-11-06,genre:jazz,Jazz,Jazz,100.63,31.17,35.79,226,156,5.95,13.19
+2026-11-06,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.93,31.99,34.02,1829,1197,3.99,9.40
+2026-11-06,genre:pop,Pop,Pop,98.59,31.99,32.30,159,114,4.08,10.88
+2026-11-06,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.89,28.99,29.91,663,458,3.03,7.99
+2026-11-06,genre:reggae,Reggae,Reggae,100.17,30.99,32.31,50,27,5.17,14.21
+2026-11-06,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.92,30.99,35.21,1515,1059,4.63,10.22
+2026-11-06,genre:soundtrack,Soundtracks,Soundtracks,99.88,39.44,44.54,64,33,6.14,13.03
+2026-11-06,genre:weitere,Other,"Weitere Editionen",100.85,31.99,41.33,100,79,5.40,8.34
+2026-11-07,all,"All editions","Alle Editionen",100.05,29.99,33.61,6136,4203,3.94,9.38
+2026-11-07,color:farbig,"Coloured pressings","Farbige Pressungen",100.09,30.99,34.07,1298,748,3.96,9.81
+2026-11-07,discs:1,"Single LP",Einzel-LP,100.09,29.99,30.12,4061,3186,3.09,8.82
+2026-11-07,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.18,37.99,43.08,1235,972,6.11,10.97
+2026-11-07,genre:blues,Blues,Blues,100.19,29.99,31.77,31,11,2.64,5.63
+2026-11-07,genre:classical,Classical,Klassik,100.03,30.99,37.45,37,17,2.28,6.02
+2026-11-07,genre:electronic,Electronic,Electronic,99.86,29.99,32.37,516,365,3.76,8.95
+2026-11-07,genre:folk,"Folk, World & Country","Folk, World & Country",99.59,29.99,31.12,106,67,2.88,8.33
+2026-11-07,genre:funk-soul,"Funk & Soul","Funk & Soul",99.42,27.99,30.14,116,77,3.29,9.40
+2026-11-07,genre:hip-hop,Hip-Hop,Hip-Hop,99.30,32.99,35.29,117,90,5.32,12.61
+2026-11-07,genre:indie,"Indie & Alternative","Indie & Alternative",100.80,28.99,31.16,578,443,2.75,7.16
+2026-11-07,genre:jazz,Jazz,Jazz,100.87,31.34,35.86,225,153,5.95,13.17
+2026-11-07,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.04,31.99,34.09,1834,1191,3.89,9.38
+2026-11-07,genre:pop,Pop,Pop,98.53,31.99,32.26,160,116,4.07,10.84
+2026-11-07,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.94,28.99,29.93,662,455,3.02,7.97
+2026-11-07,genre:reggae,Reggae,Reggae,100.44,31.49,32.39,50,27,5.17,14.16
+2026-11-07,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.90,30.99,35.19,1515,1069,4.62,10.18
+2026-11-07,genre:soundtrack,Soundtracks,Soundtracks,101.51,39.89,45.95,66,30,4.99,11.61
+2026-11-07,genre:weitere,Other,"Weitere Editionen",100.85,31.99,39.08,100,77,3.72,7.08
+2026-11-08,all,"All editions","Alle Editionen",100.09,29.99,33.62,6130,4185,3.92,9.34
+2026-11-08,color:farbig,"Coloured pressings","Farbige Pressungen",100.10,30.99,34.06,1295,744,3.95,9.75
+2026-11-08,discs:1,"Single LP",Einzel-LP,100.13,29.99,30.12,4058,3174,3.08,8.79
+2026-11-08,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.26,37.99,43.13,1232,966,6.07,10.93
+2026-11-08,genre:blues,Blues,Blues,100.19,29.99,31.77,31,11,2.64,5.63
+2026-11-08,genre:classical,Classical,Klassik,99.95,30.99,37.02,36,17,2.34,6.19
+2026-11-08,genre:electronic,Electronic,Electronic,99.88,29.99,32.37,516,364,3.77,8.97
+2026-11-08,genre:folk,"Folk, World & Country","Folk, World & Country",99.88,29.99,31.19,106,66,2.79,8.03
+2026-11-08,genre:funk-soul,"Funk & Soul","Funk & Soul",99.45,27.99,30.15,116,77,3.29,9.40
+2026-11-08,genre:hip-hop,Hip-Hop,Hip-Hop,99.30,32.99,35.29,117,90,5.34,12.69
+2026-11-08,genre:indie,"Indie & Alternative","Indie & Alternative",100.81,28.99,31.16,578,443,2.75,7.13
+2026-11-08,genre:jazz,Jazz,Jazz,100.87,31.34,35.88,225,152,5.94,13.22
+2026-11-08,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.06,31.99,34.11,1832,1187,3.86,9.34
+2026-11-08,genre:pop,Pop,Pop,98.88,31.99,32.40,160,113,3.97,10.70
+2026-11-08,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.98,28.99,29.94,662,453,3.01,7.97
+2026-11-08,genre:reggae,Reggae,Reggae,100.66,31.49,32.47,50,26,5.22,14.31
+2026-11-08,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.95,30.99,35.21,1514,1066,4.59,10.15
+2026-11-08,genre:soundtrack,Soundtracks,Soundtracks,101.76,39.94,46.04,66,30,4.79,11.15
+2026-11-08,genre:weitere,Other,"Weitere Editionen",100.82,31.99,39.29,98,75,3.76,7.09
+2026-11-09,all,"All editions","Alle Editionen",100.09,29.99,33.62,6126,4180,3.92,9.35
+2026-11-09,color:farbig,"Coloured pressings","Farbige Pressungen",100.10,30.99,34.07,1293,741,3.96,9.79
+2026-11-09,discs:1,"Single LP",Einzel-LP,100.13,29.99,30.13,4056,3171,3.08,8.79
+2026-11-09,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.26,37.99,43.13,1231,964,6.08,10.95
+2026-11-09,genre:blues,Blues,Blues,100.19,29.99,31.77,31,11,2.64,5.63
+2026-11-09,genre:classical,Classical,Klassik,99.95,30.99,37.02,36,17,2.34,6.19
+2026-11-09,genre:electronic,Electronic,Electronic,99.88,29.99,32.37,516,364,3.77,8.97
+2026-11-09,genre:folk,"Folk, World & Country","Folk, World & Country",99.88,29.99,31.19,106,66,2.79,8.03
+2026-11-09,genre:funk-soul,"Funk & Soul","Funk & Soul",99.45,27.99,30.15,116,77,3.29,9.40
+2026-11-09,genre:hip-hop,Hip-Hop,Hip-Hop,99.30,32.99,35.29,117,90,5.34,12.69
+2026-11-09,genre:indie,"Indie & Alternative","Indie & Alternative",100.81,28.99,31.16,578,443,2.75,7.13
+2026-11-09,genre:jazz,Jazz,Jazz,100.87,31.34,35.88,225,152,5.94,13.22
+2026-11-09,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.06,31.99,34.10,1828,1186,3.85,9.33
+2026-11-09,genre:pop,Pop,Pop,98.88,31.99,32.40,160,113,3.97,10.70
+2026-11-09,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.98,28.99,29.94,662,452,3.02,7.99
+2026-11-09,genre:reggae,Reggae,Reggae,100.66,31.49,32.47,50,26,5.22,14.31
+2026-11-09,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.95,30.99,35.22,1513,1066,4.59,10.15
+2026-11-09,genre:soundtrack,Soundtracks,Soundtracks,101.76,39.94,46.04,66,28,5.06,11.68
+2026-11-09,genre:weitere,Other,"Weitere Editionen",100.82,31.99,39.16,99,74,3.81,7.19
+2026-11-10,all,"All editions","Alle Editionen",100.09,29.99,33.62,6127,4159,3.93,9.40
+2026-11-10,color:farbig,"Coloured pressings","Farbige Pressungen",100.20,31.34,34.06,1292,737,3.98,9.80
+2026-11-10,discs:1,"Single LP",Einzel-LP,100.11,29.99,30.13,4062,3156,3.10,8.87
+2026-11-10,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.31,37.99,43.12,1230,958,6.05,10.91
+2026-11-10,genre:blues,Blues,Blues,100.19,29.99,31.77,31,11,2.64,5.63
+2026-11-10,genre:classical,Classical,Klassik,99.95,30.99,37.02,36,17,2.34,6.19
+2026-11-10,genre:electronic,Electronic,Electronic,99.97,29.99,32.42,515,361,3.73,8.95
+2026-11-10,genre:folk,"Folk, World & Country","Folk, World & Country",99.57,29.99,31.11,106,67,2.88,8.33
+2026-11-10,genre:funk-soul,"Funk & Soul","Funk & Soul",99.94,28.99,30.31,116,74,3.17,9.11
+2026-11-10,genre:hip-hop,Hip-Hop,Hip-Hop,99.28,32.99,35.24,118,89,5.40,12.82
+2026-11-10,genre:indie,"Indie & Alternative","Indie & Alternative",100.81,28.99,31.14,575,437,2.78,7.22
+2026-11-10,genre:jazz,Jazz,Jazz,101.50,31.99,36.08,225,147,5.92,13.16
+2026-11-10,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.05,31.99,34.10,1826,1182,3.86,9.38
+2026-11-10,genre:pop,Pop,Pop,98.29,30.99,32.20,159,114,4.22,11.28
+2026-11-10,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.94,28.99,29.97,663,454,3.03,8.03
+2026-11-10,genre:reggae,Reggae,Reggae,100.45,30.99,32.30,51,26,5.22,14.31
+2026-11-10,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.90,30.99,35.22,1520,1062,4.61,10.20
+2026-11-10,genre:soundtrack,Soundtracks,Soundtracks,101.76,39.89,45.41,65,28,5.06,11.68
+2026-11-10,genre:weitere,Other,"Weitere Editionen",100.84,31.99,39.21,98,75,3.76,7.12
+2026-11-11,all,"All editions","Alle Editionen",100.28,29.99,33.68,6122,4154,3.88,9.25
+2026-11-11,color:farbig,"Coloured pressings","Farbige Pressungen",100.38,31.99,34.09,1288,734,3.99,9.69
+2026-11-11,discs:1,"Single LP",Einzel-LP,100.32,29.99,30.19,4059,3152,3.04,8.70
+2026-11-11,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.50,37.99,43.22,1230,959,6.04,10.79
+2026-11-11,genre:blues,Blues,Blues,100.30,29.99,31.80,31,11,2.64,5.63
+2026-11-11,genre:classical,Classical,Klassik,99.95,30.99,37.02,36,17,2.34,6.19
+2026-11-11,genre:electronic,Electronic,Electronic,99.91,29.99,32.38,514,369,3.58,8.63
+2026-11-11,genre:folk,"Folk, World & Country","Folk, World & Country",99.99,29.99,31.22,106,66,2.91,8.35
+2026-11-11,genre:funk-soul,"Funk & Soul","Funk & Soul",100.17,28.99,30.36,116,75,3.04,8.73
+2026-11-11,genre:hip-hop,Hip-Hop,Hip-Hop,99.67,32.99,35.34,117,88,5.27,12.41
+2026-11-11,genre:indie,"Indie & Alternative","Indie & Alternative",100.94,28.99,31.19,577,441,2.67,6.97
+2026-11-11,genre:jazz,Jazz,Jazz,101.91,31.99,36.18,225,144,5.95,13.19
+2026-11-11,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.23,31.99,34.17,1824,1172,3.84,9.34
+2026-11-11,genre:pop,Pop,Pop,98.44,30.99,32.21,160,116,4.08,10.95
+2026-11-11,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.09,28.99,30.02,662,453,2.97,7.87
+2026-11-11,genre:reggae,Reggae,Reggae,100.93,30.99,32.40,51,26,5.05,13.83
+2026-11-11,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.16,30.99,35.28,1518,1061,4.61,10.04
+2026-11-11,genre:soundtrack,Soundtracks,Soundtracks,102.08,39.94,45.93,64,27,5.01,11.70
+2026-11-11,genre:weitere,Other,"Weitere Editionen",100.99,31.99,39.57,98,73,3.50,7.06
+2026-11-12,all,"All editions","Alle Editionen",100.24,29.99,33.64,6127,4176,3.92,9.26
+2026-11-12,color:farbig,"Coloured pressings","Farbige Pressungen",100.36,31.99,34.07,1293,736,4.01,9.72
+2026-11-12,discs:1,"Single LP",Einzel-LP,100.36,29.99,30.21,4067,3167,3.02,8.63
+2026-11-12,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.19,37.99,43.03,1230,965,6.23,11.03
+2026-11-12,genre:blues,Blues,Blues,100.30,29.99,31.26,30,10,2.90,6.19
+2026-11-12,genre:classical,Classical,Klassik,99.95,30.99,37.02,36,17,2.34,6.19
+2026-11-12,genre:electronic,Electronic,Electronic,100.06,29.99,32.46,514,368,3.47,8.48
+2026-11-12,genre:folk,"Folk, World & Country","Folk, World & Country",100.30,29.99,31.31,106,65,2.82,8.05
+2026-11-12,genre:funk-soul,"Funk & Soul","Funk & Soul",100.14,28.49,30.35,116,76,3.01,8.66
+2026-11-12,genre:hip-hop,Hip-Hop,Hip-Hop,99.40,32.99,35.22,117,89,5.38,12.60
+2026-11-12,genre:indie,"Indie & Alternative","Indie & Alternative",100.88,28.99,31.18,577,443,2.68,6.99
+2026-11-12,genre:jazz,Jazz,Jazz,101.67,31.99,36.09,225,147,5.97,13.20
+2026-11-12,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.19,31.99,34.08,1830,1176,3.96,9.36
+2026-11-12,genre:pop,Pop,Pop,98.42,30.99,32.22,161,116,4.08,10.97
+2026-11-12,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.02,28.99,29.99,662,459,2.99,7.92
+2026-11-12,genre:reggae,Reggae,Reggae,101.15,31.49,32.59,50,25,5.05,13.98
+2026-11-12,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.12,30.99,35.26,1518,1068,4.62,10.04
+2026-11-12,genre:soundtrack,Soundtracks,Soundtracks,100.57,39.44,45.07,64,29,6.70,13.98
+2026-11-12,genre:weitere,Other,"Weitere Editionen",101.35,31.99,39.62,98,73,3.36,6.63
+2026-11-13,all,"All editions","Alle Editionen",100.27,30.39,33.66,6134,4198,3.88,9.20
+2026-11-13,color:farbig,"Coloured pressings","Farbige Pressungen",100.34,31.99,34.06,1299,740,4.00,9.71
+2026-11-13,discs:1,"Single LP",Einzel-LP,100.37,29.99,30.21,4073,3186,3.00,8.60
+2026-11-13,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.28,37.99,43.10,1234,969,6.10,10.93
+2026-11-13,genre:blues,Blues,Blues,100.64,29.99,31.15,31,10,2.60,5.19
+2026-11-13,genre:classical,Classical,Klassik,99.95,30.99,37.43,37,17,2.34,6.19
+2026-11-13,genre:electronic,Electronic,Electronic,100.21,29.99,32.52,513,368,3.40,8.31
+2026-11-13,genre:folk,"Folk, World & Country","Folk, World & Country",100.27,29.99,31.30,106,65,2.82,8.05
+2026-11-13,genre:funk-soul,"Funk & Soul","Funk & Soul",100.11,28.49,30.34,116,76,3.02,8.70
+2026-11-13,genre:hip-hop,Hip-Hop,Hip-Hop,98.92,32.99,35.10,116,90,5.51,12.94
+2026-11-13,genre:indie,"Indie & Alternative","Indie & Alternative",100.91,28.99,31.17,580,448,2.66,6.95
+2026-11-13,genre:jazz,Jazz,Jazz,101.68,31.99,36.12,226,149,5.89,12.99
+2026-11-13,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.26,31.99,34.15,1830,1181,3.86,9.27
+2026-11-13,genre:pop,Pop,Pop,98.42,31.49,32.22,162,116,4.09,10.99
+2026-11-13,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.02,28.99,29.99,662,465,2.97,7.84
+2026-11-13,genre:reggae,Reggae,Reggae,102.24,32.62,32.88,50,24,4.66,12.84
+2026-11-13,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.09,30.99,35.24,1521,1072,4.62,10.05
+2026-11-13,genre:soundtrack,Soundtracks,Soundtracks,100.57,38.99,44.51,63,29,6.70,13.98
+2026-11-13,genre:weitere,Other,"Weitere Editionen",101.35,31.99,39.62,98,72,3.39,6.68
+2026-11-14,all,"All editions","Alle Editionen",100.31,30.99,33.67,6097,4152,3.80,8.96
+2026-11-14,color:farbig,"Coloured pressings","Farbige Pressungen",100.38,31.99,34.14,1298,742,4.01,9.58
+2026-11-14,discs:1,"Single LP",Einzel-LP,100.40,29.99,30.21,4051,3163,2.94,8.39
+2026-11-14,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.42,37.99,43.21,1231,946,5.94,10.57
+2026-11-14,genre:blues,Blues,Blues,100.64,29.99,31.29,30,10,2.60,5.19
+2026-11-14,genre:classical,Classical,Klassik,99.95,32.99,37.80,37,17,2.34,6.19
+2026-11-14,genre:electronic,Electronic,Electronic,100.16,29.99,32.49,506,366,3.40,8.22
+2026-11-14,genre:folk,"Folk, World & Country","Folk, World & Country",100.14,29.99,31.07,105,64,2.75,7.91
+2026-11-14,genre:funk-soul,"Funk & Soul","Funk & Soul",100.18,28.99,30.38,115,76,3.04,8.69
+2026-11-14,genre:hip-hop,Hip-Hop,Hip-Hop,99.18,32.99,34.78,114,85,5.04,11.97
+2026-11-14,genre:indie,"Indie & Alternative","Indie & Alternative",100.88,28.99,31.19,576,443,2.59,6.71
+2026-11-14,genre:jazz,Jazz,Jazz,101.59,31.99,36.04,225,144,5.57,12.20
+2026-11-14,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.30,31.99,34.23,1825,1182,3.91,9.23
+2026-11-14,genre:pop,Pop,Pop,98.51,30.99,32.17,161,114,4.11,10.78
+2026-11-14,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.07,28.99,30.02,657,454,2.86,7.71
+2026-11-14,genre:reggae,Reggae,Reggae,102.24,31.99,32.86,51,22,4.03,11.28
+2026-11-14,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.20,30.99,35.31,1513,1064,4.45,9.69
+2026-11-14,genre:soundtrack,Soundtracks,Soundtracks,100.55,38.99,44.39,62,25,6.20,12.23
+2026-11-14,genre:weitere,Other,"Weitere Editionen",101.31,31.99,38.56,97,70,3.17,6.60
+2026-11-15,all,"All editions","Alle Editionen",100.36,30.74,33.68,6097,4130,3.79,8.95
+2026-11-15,color:farbig,"Coloured pressings","Farbige Pressungen",100.44,31.99,34.16,1298,738,4.02,9.60
+2026-11-15,discs:1,"Single LP",Einzel-LP,100.44,29.99,30.22,4052,3151,2.94,8.37
+2026-11-15,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.53,37.99,43.25,1230,936,5.95,10.58
+2026-11-15,genre:blues,Blues,Blues,100.64,29.99,31.29,30,10,2.60,5.19
+2026-11-15,genre:classical,Classical,Klassik,99.95,32.99,37.80,37,17,2.34,6.19
+2026-11-15,genre:electronic,Electronic,Electronic,100.13,29.99,32.48,506,363,3.41,8.25
+2026-11-15,genre:folk,"Folk, World & Country","Folk, World & Country",100.14,29.99,31.07,105,64,2.75,7.91
+2026-11-15,genre:funk-soul,"Funk & Soul","Funk & Soul",100.18,28.99,30.38,115,76,3.04,8.69
+2026-11-15,genre:hip-hop,Hip-Hop,Hip-Hop,99.18,32.99,34.78,114,84,5.12,12.19
+2026-11-15,genre:indie,"Indie & Alternative","Indie & Alternative",100.90,28.99,31.18,575,442,2.60,6.72
+2026-11-15,genre:jazz,Jazz,Jazz,101.61,31.99,36.04,225,144,5.57,12.19
+2026-11-15,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.38,31.99,34.25,1826,1171,3.90,9.19
+2026-11-15,genre:pop,Pop,Pop,98.72,30.99,32.23,162,114,3.95,10.49
+2026-11-15,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.12,28.99,30.04,658,451,2.86,7.71
+2026-11-15,genre:reggae,Reggae,Reggae,103.37,33.24,33.14,51,22,4.03,11.28
+2026-11-15,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.21,30.99,35.31,1511,1062,4.44,9.67
+2026-11-15,genre:soundtrack,Soundtracks,Soundtracks,100.55,38.99,44.39,62,24,6.41,12.65
+2026-11-15,genre:weitere,Other,"Weitere Editionen",101.36,31.99,38.58,97,70,3.14,6.51
+2026-11-16,all,"All editions","Alle Editionen",100.43,30.99,33.73,6089,4095,3.76,8.90
+2026-11-16,color:farbig,"Coloured pressings","Farbige Pressungen",100.51,31.99,34.19,1295,726,4.04,9.60
+2026-11-16,discs:1,"Single LP",Einzel-LP,100.50,29.99,30.25,4049,3129,2.93,8.34
+2026-11-16,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.67,37.99,43.30,1231,924,5.95,10.53
+2026-11-16,genre:blues,Blues,Blues,100.64,29.99,31.29,30,10,2.60,5.19
+2026-11-16,genre:classical,Classical,Klassik,99.95,32.99,37.80,37,17,2.34,6.19
+2026-11-16,genre:electronic,Electronic,Electronic,100.22,29.99,32.51,506,360,3.40,8.22
+2026-11-16,genre:folk,"Folk, World & Country","Folk, World & Country",100.22,29.99,31.10,105,63,2.75,7.91
+2026-11-16,genre:funk-soul,"Funk & Soul","Funk & Soul",100.18,28.99,30.38,115,76,3.04,8.69
+2026-11-16,genre:hip-hop,Hip-Hop,Hip-Hop,99.15,32.99,34.77,114,84,5.09,12.09
+2026-11-16,genre:indie,"Indie & Alternative","Indie & Alternative",100.91,28.99,31.19,575,436,2.62,6.79
+2026-11-16,genre:jazz,Jazz,Jazz,101.91,31.99,36.12,225,143,5.50,11.95
+2026-11-16,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",100.43,31.99,34.32,1821,1160,3.84,9.12
+2026-11-16,genre:pop,Pop,Pop,98.91,31.99,32.47,160,114,3.78,10.17
+2026-11-16,genre:punk,"Punk & Hardcore","Punk & Hardcore",100.22,28.99,30.07,658,446,2.84,7.66
+2026-11-16,genre:reggae,Reggae,Reggae,103.37,33.24,33.14,51,22,3.98,11.14
+2026-11-16,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",100.26,30.99,35.36,1510,1056,4.43,9.63
+2026-11-16,genre:soundtrack,Soundtracks,Soundtracks,100.55,38.99,44.39,62,24,6.41,12.65
+2026-11-16,genre:weitere,Other,"Weitere Editionen",101.43,31.99,38.60,97,70,3.11,6.42
+2026-11-17,all,"All editions","Alle Editionen",100.14,30.74,33.66,6091,4087,3.86,9.19
+2026-11-17,color:farbig,"Coloured pressings","Farbige Pressungen",100.19,31.99,34.11,1289,724,4.06,9.88
+2026-11-17,discs:1,"Single LP",Einzel-LP,100.10,29.99,30.15,4045,3124,3.04,8.69
+2026-11-17,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.57,37.99,43.30,1226,921,6.00,10.67
+2026-11-17,genre:blues,Blues,Blues,100.50,29.99,31.25,30,10,2.60,5.19
+2026-11-17,genre:classical,Classical,Klassik,99.41,34.49,38.03,36,17,2.42,6.49
+2026-11-17,genre:electronic,Electronic,Electronic,100.24,29.99,32.54,507,358,3.43,8.25
+2026-11-17,genre:folk,"Folk, World & Country","Folk, World & Country",99.98,29.99,31.02,106,63,2.83,8.15
+2026-11-17,genre:funk-soul,"Funk & Soul","Funk & Soul",99.98,28.99,30.15,115,77,3.09,8.83
+2026-11-17,genre:hip-hop,Hip-Hop,Hip-Hop,99.22,32.99,34.75,115,85,5.10,12.13
+2026-11-17,genre:indie,"Indie & Alternative","Indie & Alternative",100.79,28.99,31.19,576,435,2.66,6.92
+2026-11-17,genre:jazz,Jazz,Jazz,101.56,31.99,36.02,225,141,5.66,12.40
+2026-11-17,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.96,31.99,34.19,1822,1158,4.07,9.69
+2026-11-17,genre:pop,Pop,Pop,98.95,31.99,32.38,161,114,3.76,10.02
+2026-11-17,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.85,28.99,29.98,656,442,2.77,7.87
+2026-11-17,genre:reggae,Reggae,Reggae,103.20,31.99,33.07,51,22,4.13,11.49
+2026-11-17,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.96,30.99,35.29,1509,1056,4.53,9.93
+2026-11-17,genre:soundtrack,Soundtracks,Soundtracks,100.32,38.34,44.32,62,24,6.26,12.36
+2026-11-17,genre:weitere,Other,"Weitere Editionen",101.33,31.99,38.57,97,71,3.04,6.30
+2026-11-18,all,"All editions","Alle Editionen",100.06,30.39,33.62,6092,4108,3.88,9.26
+2026-11-18,color:farbig,"Coloured pressings","Farbige Pressungen",100.10,30.99,34.04,1292,725,4.10,9.98
+2026-11-18,discs:1,"Single LP",Einzel-LP,100.01,29.99,30.12,4055,3131,3.08,8.79
+2026-11-18,discs:2plus,"Double LP and more","Doppel-LP und mehr",100.45,37.99,43.24,1223,936,5.97,10.64
+2026-11-18,genre:blues,Blues,Blues,100.50,29.99,31.25,30,11,2.36,4.72
+2026-11-18,genre:classical,Classical,Klassik,99.41,34.49,38.03,36,17,2.42,6.49
+2026-11-18,genre:electronic,Electronic,Electronic,100.26,29.99,32.51,507,356,3.49,8.32
+2026-11-18,genre:folk,"Folk, World & Country","Folk, World & Country",99.93,29.99,31.00,106,65,2.78,7.99
+2026-11-18,genre:funk-soul,"Funk & Soul","Funk & Soul",99.30,27.99,29.94,115,79,3.31,9.44
+2026-11-18,genre:hip-hop,Hip-Hop,Hip-Hop,99.50,32.99,35.00,115,87,4.65,11.58
+2026-11-18,genre:indie,"Indie & Alternative","Indie & Alternative",100.79,28.99,31.19,575,440,2.63,6.85
+2026-11-18,genre:jazz,Jazz,Jazz,101.53,31.99,36.09,223,144,5.70,12.52
+2026-11-18,genre:metal,"Metal & Hard Rock","Metal & Hard Rock",99.80,31.99,34.13,1828,1168,4.12,9.80
+2026-11-18,genre:pop,Pop,Pop,98.88,31.99,32.32,162,115,3.76,10.03
+2026-11-18,genre:punk,"Punk & Hardcore","Punk & Hardcore",99.83,28.99,29.90,655,442,2.79,7.92
+2026-11-18,genre:reggae,Reggae,Reggae,102.98,31.99,32.97,51,23,4.16,11.43
+2026-11-18,genre:rock,"Rock & Classic Rock","Rock & Classic Rock",99.88,30.99,35.33,1510,1055,4.57,10.04
+2026-11-18,genre:soundtrack,Soundtracks,Soundtracks,100.32,37.99,44.23,61,23,6.49,12.78
+2026-11-18,genre:weitere,Other,"Weitere Editionen",101.33,31.99,37.41,95,69,2.83,6.21
